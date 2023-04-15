@@ -1,0 +1,16 @@
+.imageAlter {
+  width: 50px;
+  height: 50px;
+}
+.individualEmojiContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  list-style-type: none;
+}
+.emojiBtn {
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+}
